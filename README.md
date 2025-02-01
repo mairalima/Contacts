@@ -18,7 +18,7 @@ This app was specially created to refine techniques in developing lists on Andro
 - Layout Manager: Grid and Linear
 - DiffUtils
 - Explicit intent
-- 
+
 ## License
 The MIT License (MIT)
 
