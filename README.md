@@ -1,10 +1,14 @@
-## Sobre
-Esse aplicativo foi desenvolvido para praticar desenvolvimento de listas em desenvolvimento Android com recyclerview.
+## RecyclerView
+✨ Enhancing Skills with Lists in Android! 🚀
+
+This app was specially created to refine techniques in developing lists on Android using the powerful RecyclerView. With this app, you can explore and practice building dynamic and responsive list interfaces, taking your programming skills to the next level!
 
 ## Screenshots
-<img src = "https://github.com/roquebuarquejr/Recyclerview/assets/11612508/cdb4fc56-808d-482f-ad11-554a4bbddf91" width="260"/>
-<img src = "https://github.com/roquebuarquejr/Recyclerview/assets/11612508/2badea79-241c-45ac-9a24-ed172730ce18" width="260"/>
-<img src = "https://github.com/roquebuarquejr/Recyclerview/assets/11612508/53ec9ef5-629f-42a2-8288-964059d9d4b7" width="260"/>
+<img src = "https://github.com/user-attachments/assets/9e78f9ea-f6ec-48b6-a0d8-2e5a454f0160" width="260"/>
+
+<img src = "https://github.com/user-attachments/assets/09d860b5-1d22-434f-b6b0-fd4f2f993004" width="260"/>
+
+<img src = "https://github.com/user-attachments/assets/fc8a30fa-1a58-4cd0-9931-ee2b6fcc8e35" width="260"/>
 
 ## Techs
 - Kotlin
